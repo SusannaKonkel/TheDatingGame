@@ -19,6 +19,7 @@ public class DatingRunner
 			if(compatability.get(i).getSenseOfHumor() >= userDesiredHumor)
 			{
 				//System.out.println(compatability.get(i).getName() + " has a " + compatability.get(i).getSenseOfHumor() + " on the humor scale." );
+				//github tester;
 			}
 		}
 	}
